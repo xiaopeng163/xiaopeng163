@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/release-v1.0.0--beta-blue)
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
-欢迎关注我的微信公众号
-
-![](https://github.com/xiaopeng163/static/blob/master/QR/MY_WeChat_official_account.jpg)
+- 🔭 I’m currently working as a 🛠 Network DevOps engineer @ing-bank Netherlands.
+- 
