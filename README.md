@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
 - 🔭 I’m currently working as a 🛠 Network DevOps engineer @ing-bank Netherlands.
-- 
+- 👯 I like creating tech training videos online (Udemy, YouTube)
+
