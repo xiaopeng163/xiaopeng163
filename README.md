@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
 - 🔭 I’m currently working as a 🛠 Network DevOps engineer @ing-bank Netherlands.
-- 📚 I like creating tech training videos online ([Udemy](https://www.udemy.com/user/peng-xiao/), [YouTube](https://www.youtube.com/channel/UCmjdhwMGSut8mZ1CqnRjjUw?view_as=subscriber), WeChat)
+- 📚 I like creating tech training videos online ([Udemy](https://www.udemy.com/user/peng-xiao/), [YouTube](https://www.youtube.com/channel/UCmjdhwMGSut8mZ1CqnRjjUw?view_as=subscriber), WeChat微信公众号 **`卖逗搞IT`** )
 - 💬 How to reach me: [Twitter](https://twitter.com/xiaopeng163)
