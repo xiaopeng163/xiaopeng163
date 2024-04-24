@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/release-v1.0.0--beta-blue)
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
-- 🔭 I’m currently working as a 🛠 Network DevOps engineer @ing-bank Netherlands.
-- 📚 I like creating tech training videos online ([Udemy](https://www.udemy.com/user/peng-xiao/), [YouTube](https://www.youtube.com/channel/UCmjdhwMGSut8mZ1CqnRjjUw?view_as=subscriber), WeChat微信公众号 **`卖逗搞IT`** )
+- 🔭 I’m currently working as a 🛠 Network and Cloud DevOps engineer @ing-bank Netherlands.
+- 📚 I like creating tech training videos online ([Udemy](https://www.udemy.com/user/peng-xiao/), [YouTube](https://www.youtube.com/channel/UCmjdhwMGSut8mZ1CqnRjjUw?view_as=subscriber), WeChat微信公众号 **`卖兜搞IT`** )
 - 💬 How to reach me: [Twitter](https://twitter.com/xiaopeng163)
 - :panda_face: 中文圈的朋友可以搜索 **``麦兜搞IT``** 获取我更多的内容
 
